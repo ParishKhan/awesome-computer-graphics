@@ -78,6 +78,7 @@ photon mapping, shader programming. Recommended projects are the PBRT, the ray t
 * [SIGGRAPH University](https://www.youtube.com/playlist?list=PLUPhVMQuDB_aWSKj7L_-3Ot_nxBze_YMy), playlist with popular courses from the annual SIGGRAPH Conference.
 
 * [Computer Graphics & Imaging - Berkeley](https://cs184.eecs.berkeley.edu/), by Ren Ng (Spring 2018.)
+* [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 
 ### Sites
